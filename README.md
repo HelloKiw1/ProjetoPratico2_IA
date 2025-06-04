@@ -49,5 +49,3 @@ Em ambos os experimentos, realizar:
 
 ---
 
-## 📂 Estrutura do Projeto (sugestão)
-
