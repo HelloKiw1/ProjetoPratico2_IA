@@ -1,0 +1,3 @@
+numpy
+pandas
+matplotlib  # Para gráficos, caso deseje visualizar os resultados
