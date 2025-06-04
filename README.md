@@ -8,7 +8,7 @@
 
 ## 👥 Integrantes do Grupo
 - Eduardo Henrique Coelho Ramos  
-- Shayla  
+- Shayla Thammy de Sousa Alves  
 - Mário Lúccio Borges Silva
 
 ---
