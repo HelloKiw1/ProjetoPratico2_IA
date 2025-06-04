@@ -1,0 +1,1 @@
+Arquivo com as dependências do projeto
