@@ -1,0 +1,2 @@
+# ProjetoPratico2_IA
+ProjetoPratico2_IA
